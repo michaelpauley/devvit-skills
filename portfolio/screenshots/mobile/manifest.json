@@ -327,7 +327,10 @@
       "gif": null,
       "notes": "Published stills, not a fresh mobile gameplay capture. Portrait leaderboard from Reddit developer documentation; gameplay screenshot from MobyGames. Original aspect ratios preserved inside the composed mobile frame. Live post blocked in capture browser; no gameplay GIF available.",
       "local_project": "published-screenshots",
-      "category": "game"
+      "category": "game",
+      "latest_post_checked": "https://www.reddit.com/r/syllo/comments/1w9q7e9/syllo_424_september_7th_2026/",
+      "latest_post_capture_status": "Blocked by Reddit network security; published gameplay still used on Games on Reddit slide.",
+      "slide_asset": "syllo-gameplay.png"
     }
   ],
   "animation_capture": "Actual browser screenshots sampled during interaction, encoded as looping GIF; no generated app imagery.",
