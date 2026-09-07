@@ -1,0 +1,17 @@
+# Portfolio
+
+- [ABC Scrubs](https://www.reddit.com/r/hftf_scrubs_dev/comments/1w5hmdg/scrub_in_on_an_operation_with_the_cast_of_scrubs/)
+- [Google Shopping](https://www.reddit.com/user/google/comments/1vz59rb/back_to_school_is_here_explore_shopping_edits/?p=1)
+- [Royal Canin](https://www.reddit.com/r/hftf_royal_canin_dev/comments/1w5cr6q/youre_in_the_judges_seat_select_your_top_dogs_for/)
+- [PrizePicks](https://www.reddit.com/r/hftf_prize_picks_dev/comments/1vyev8y/think_you_know_the_nfl_make_one_pick_from_each/)
+- [Adobe Firefly](https://www.reddit.com/user/adobe/comments/1vc2zn4/with_adobe_firefly_you_can_take_your_imagination/?p=1)
+- [E*TRADE](https://www.reddit.com/user/etrade_official/comments/1vibv34/ysk_now_you_can_track_market_updates_trade_crypto/?p=1)
+- [FanDuel Dynamic Parlay]()
+- [McDonald's](https://www.reddit.com/r/hftf_mcds_dev/comments/1tddzpz/hey_reddit_if_youve_snagged_one_of_our_9/)
+- [Vital Farms](https://www.reddit.com/r/hftf_vf_dev/comments/1sfxye8/can_you_find_the_half_dozen_differences_in_this/)
+- [NBA](https://www.reddit.com/r/NBAScoreboards/comments/1u5a7vf/postgame_thread_new_york_knicks_41_defeat_san/)
+- [Levi's](https://www.reddit.com/r/hftf_levis_dev/comments/1rp24gk/its_time_you_put_all_that_lurking_in_fashion/)
+- [Arby's](https://www.reddit.com/r/hftf_arbys_dev/comments/1r0h604/the_only_way_to_win_this_game_is_to_not_overthink/)
+- [FanDuel Predicts](https://www.reddit.com/r/hftf_fan_duel_dev/comments/1u7moiu/think_you_know_whos_going_to_win_put_your_tapping/)
+- [Sephora](https://www.reddit.com/r/hftf_seph_dev/comments/1oaqfir/let_us_help_you_find_the_perfect_gift_for_that/)
+- [Paramount](https://www.reddit.com/r/blx_workarnd_mrp_dev/comments/1oifx0e/the_running_man_in_theaters_november_14/)
