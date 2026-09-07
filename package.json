@@ -1,0 +1,19 @@
+{
+  "name": "michaelpauley-devvit-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Reusable Devvit app, ad, and game conventions for the npx skills framework",
+  "engines": {
+    "node": ">=22.20.0"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs",
+    "skills:list": "skills add . --list",
+    "test:docs": "node scripts/test-docs.cjs"
+  },
+  "devDependencies": {
+    "skills": "1.5.24",
+    "yaml": "2.9.0"
+  }
+}
