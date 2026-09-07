@@ -1,0 +1,497 @@
+{
+  "captured_on": "2026-09-07",
+  "viewport": {
+    "width": 393,
+    "height": 850
+  },
+  "frame": "393 \u00d7 850 composed mobile Reddit post frame. Editorial captions and preview labels; no fabricated Reddit post engagement.",
+  "projects": [
+    {
+      "slug": "abc-scrubs",
+      "name": "ABC Scrubs",
+      "source_post": "https://www.reddit.com/r/hftf_scrubs_dev/comments/1w5hmdg/scrub_in_on_an_operation_with_the_cast_of_scrubs/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "abc-scrubs-gameplay.png",
+        "abc-scrubs.png"
+      ],
+      "gif": "abc-scrubs.gif",
+      "local_project": "scrubs-proto-clean",
+      "notes": "Local Scrubs prototype; uses its existing mock API.",
+      "live_access": "Human verification challenge",
+      "category": "ad"
+    },
+    {
+      "slug": "google-shopping",
+      "name": "Google Shopping",
+      "source_post": "https://www.reddit.com/user/google/comments/1vz59rb/back_to_school_is_here_explore_shopping_edits/?p=1",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "google-shopping-products.png",
+        "google-shopping.png"
+      ],
+      "gif": "google-shopping.gif",
+      "local_project": "/Users/michaelpauley/HFTF-GitRepos/161-reddit-google-shopping",
+      "notes": "Local Google Shopping build; community choices and product results. No purchases or external product links opened.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "royal-canin",
+      "name": "Royal Canin",
+      "source_post": "https://www.reddit.com/r/hftf_royal_canin_dev/comments/1w5cr6q/youre_in_the_judges_seat_select_your_top_dogs_for/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "royal-canin-detail.png",
+        "royal-canin.png"
+      ],
+      "gif": "royal-canin.gif",
+      "local_project": "/Users/michaelpauley/HFTF-GitRepos/158-reddit-royal-canin",
+      "notes": "Local Royal Canin build; dog selection and details. No live votes submitted.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "prizepicks",
+      "name": "PrizePicks",
+      "source_post": "https://www.reddit.com/r/hftf_prize_picks_dev/comments/1vyev8y/think_you_know_the_nfl_make_one_pick_from_each/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "prizepicks-pick.png",
+        "prizepicks-players.png",
+        "prizepicks.png"
+      ],
+      "gif": "prizepicks.gif",
+      "local_project": "/Users/michaelpauley/HFTF-GitRepos/154-reddit-prizepicks",
+      "notes": "Local PrizePicks build using saved app-projections.json reference data. Category names normalized to the app schema. Player images loaded from static.prizepicks.com. Sample selection window; no live votes or bets.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "adobe-firefly",
+      "name": "Adobe Firefly",
+      "source_post": "https://www.reddit.com/user/adobe/comments/1vc2zn4/with_adobe_firefly_you_can_take_your_imagination/?p=1",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "adobe-firefly-result.png",
+        "adobe-firefly.png"
+      ],
+      "gif": "adobe-firefly.gif",
+      "local_project": "/Users/michaelpauley/HFTF-GitRepos/152-reddit-adobe",
+      "notes": "Fresh frontend build from 152-reddit-adobe source. Actual local selection flow and bundled result images; no AI image generation was performed for this capture.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "etrade",
+      "name": "E*TRADE",
+      "source_post": "https://www.reddit.com/user/etrade_official/comments/1vibv34/ysk_now_you_can_track_market_updates_trade_crypto/?p=1",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "etrade-chart.png",
+        "etrade.png"
+      ],
+      "gif": "etrade.gif",
+      "local_project": "/Users/michaelpauley/GitRepos/151-reddit-etrade",
+      "notes": "Local E*TRADE frontend with real public Coinbase Exchange BTC-USD, ETH-USD and SOL-USD stats and hourly candles retrieved September 7, 2026. Alternate data provider for this preview, not the linked post\u2019s backend.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "fanduel-dynamic-parlay",
+      "name": "FanDuel Dynamic Parlay",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "fanduel-dynamic-parlay.png"
+      ],
+      "gif": null,
+      "local_project": "hftf-fd-3",
+      "notes": "Local frontend with three sample selections from fixtures/player-props.json. Sample odds and default offer copy; not a live parlay. Static capture only; buttons lead to external betting actions.",
+      "live_access": "No post URL supplied",
+      "category": "ad"
+    },
+    {
+      "slug": "mcdonalds",
+      "name": "McDonald's",
+      "source_post": "https://www.reddit.com/r/hftf_mcds_dev/comments/1tddzpz/hey_reddit_if_youve_snagged_one_of_our_9/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "mcdonalds-selection.png",
+        "mcdonalds.png"
+      ],
+      "gif": "mcdonalds.gif",
+      "local_project": "hftf-mcds",
+      "notes": "Local frontend built from source into a temporary directory.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "vital-farms",
+      "name": "Vital Farms",
+      "source_post": "https://www.reddit.com/r/hftf_vf_dev/comments/1sfxye8/can_you_find_the_half_dozen_differences_in_this/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "vital-farms-gameplay.png",
+        "vital-farms.png"
+      ],
+      "gif": "vital-farms.gif",
+      "local_project": "hftf-vital-farms",
+      "notes": "Local frontend with empty initialization metadata; completion count 0, empty histogram, admin disabled.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "nba",
+      "name": "NBA",
+      "source_post": "https://www.reddit.com/r/NBAScoreboards/comments/1u5a7vf/postgame_thread_new_york_knicks_41_defeat_san/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "nba-box-score.png",
+        "nba.png"
+      ],
+      "gif": "nba.gif",
+      "local_project": "hftf-nba",
+      "notes": "Local frontend with the repository\u2019s saved summary-closed.json: Clippers vs Rockets, February 11, 2026. Does not depict the linked Knicks post.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "levis",
+      "name": "Levi's",
+      "source_post": "https://www.reddit.com/r/hftf_levis_dev/comments/1rp24gk/its_time_you_put_all_that_lurking_in_fashion/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "levis-builder.png",
+        "levis.png"
+      ],
+      "gif": "levis.gif",
+      "local_project": "hftf-levis",
+      "notes": "Local frontend; community metrics unavailable.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "arbys",
+      "name": "Arby's",
+      "source_post": "https://www.reddit.com/r/hftf_arbys_dev/comments/1r0h604/the_only_way_to_win_this_game_is_to_not_overthink/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "arbys-gameplay.png",
+        "arbys.png"
+      ],
+      "gif": "arbys.gif",
+      "local_project": "hftf-arbys",
+      "notes": "Local frontend quiz.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "fanduel-predicts",
+      "name": "FanDuel Predicts",
+      "source_post": "https://www.reddit.com/r/hftf_fan_duel_dev/comments/1u7moiu/think_you_know_whos_going_to_win_put_your_tapping/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "fanduel-predicts-selection.png",
+        "fanduel-predicts.png"
+      ],
+      "gif": "fanduel-predicts.gif",
+      "local_project": "/Users/michaelpauley/HFTF-GitRepos/141-reddit-fanduel2",
+      "notes": "Local 141-reddit-fanduel2 build with a sample Clippers/Rockets matchup and empty voting data. Odds are unavailable, not invented. Default offer copy belongs to this local build; not a live promotion.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "sephora",
+      "name": "Sephora",
+      "source_post": "https://www.reddit.com/r/hftf_seph_dev/comments/1oaqfir/let_us_help_you_find_the_perfect_gift_for_that/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "sephora-result.png",
+        "sephora.png"
+      ],
+      "gif": "sephora.gif",
+      "local_project": "hftf-seph",
+      "notes": "Local frontend gift quiz and product result.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "paramount",
+      "name": "Paramount",
+      "source_post": "https://www.reddit.com/r/blx_workarnd_mrp_dev/comments/1oifx0e/the_running_man_in_theaters_november_14/",
+      "status": "captured-local-preview",
+      "screenshots": [
+        "paramount-gameplay.png",
+        "paramount.png"
+      ],
+      "gif": "paramount.gif",
+      "local_project": "blx-workarnd-mrp",
+      "notes": "Local Running Man frontend and gameplay.",
+      "live_access": "Blocked by Reddit network security",
+      "category": "ad"
+    },
+    {
+      "slug": "letterset",
+      "name": "Letterset",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "letterset-word.png",
+        "letterset.png"
+      ],
+      "gif": "letterset.gif",
+      "notes": "Fresh local frontend with daily-puzzles.sample.json puzzle 1 and the repository\u2019s letter/bonus definitions. Neutral user metadata; no community scores submitted.",
+      "local_project": "/Users/michaelpauley/GitRepos/devvit-letterset",
+      "category": "game"
+    },
+    {
+      "slug": "pocketgrids",
+      "name": "PocketGrids",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "pocketgrids-gameplay.png",
+        "pocketgrids.png"
+      ],
+      "gif": "pocketgrids.gif",
+      "notes": "Local PocketGrids inline and game entrypoints with the first saved 5x5 crossword from pgtools/backup_puzzle_data/puzzles_5X5_with_clues.json. Neutral progress metadata; inline-to-game navigation emulated locally.",
+      "local_project": "/Users/michaelpauley/GitRepos/reddit-mini-crossword/mini-crossword",
+      "category": "game"
+    },
+    {
+      "slug": "dictionary-fills",
+      "name": "Dictionary Fills",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "dictionary-fills-info.png",
+        "dictionary-fills.png"
+      ],
+      "gif": "dictionary-fills.gif",
+      "notes": "Local Dictionary Fills word-builder and information panel with neutral local post metadata. No word post submitted.",
+      "local_project": "/Users/michaelpauley/GitRepos/reddictionary",
+      "category": "game"
+    },
+    {
+      "slug": "fillables",
+      "name": "Fillables",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "fillables-result.png",
+        "fillables.png"
+      ],
+      "gif": "fillables.gif",
+      "notes": "Fresh Fillables frontend. Explicit sample story, neutral user metadata and local completion response generated from the selected words. No Reddit comment submitted.",
+      "local_project": "/Users/michaelpauley/GitRepos/redd-libs",
+      "category": "game"
+    },
+    {
+      "slug": "karma-crunch",
+      "name": "Karma Crunch",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "karma-crunch-subreddit.png",
+        "karma-crunch.png"
+      ],
+      "gif": "karma-crunch.gif",
+      "notes": "Local Karma Crunch launcher with a sample Preview identity; report-type controls only. No personal report or portrait generated.",
+      "local_project": "/Users/michaelpauley/GitRepos/karma-crunch-v2",
+      "category": "game"
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "source_post": null,
+      "status": "captured-local-preview",
+      "screenshots": [
+        "apple-stickers.png",
+        "apple.png"
+      ],
+      "gif": "apple.gif",
+      "notes": "Frontend built from hftf-apple with existing compatible dependencies. Original bundled event creative and sticker animations; event countdown reflects the historical creative. No outbound CTA opened.",
+      "local_project": "/Users/michaelpauley/GitRepos/hftf-apple",
+      "category": "ad"
+    },
+    {
+      "slug": "syllo",
+      "name": "Syllo",
+      "source_post": "https://www.reddit.com/r/syllo/",
+      "status": "published-screenshot",
+      "screenshots": [
+        "syllo-gameplay.png",
+        "syllo.png"
+      ],
+      "gif": null,
+      "notes": "Published stills, not a fresh mobile gameplay capture. Portrait leaderboard from Reddit developer documentation; gameplay screenshot from MobyGames. Original aspect ratios preserved inside the composed mobile frame. Live post blocked in capture browser; no gameplay GIF available.",
+      "local_project": "published-screenshots",
+      "category": "game"
+    }
+  ],
+  "animation_capture": "Actual browser screenshots sampled during interaction, encoded as looping GIF; no generated app imagery.",
+  "sample_data_sources": {
+    "nba": "hftf-nba/scripts/sample-api-responses/summary-closed.json",
+    "fanduel-dynamic-parlay": "hftf-fd-3/fixtures/player-props.json",
+    "vital-farms": "Neutral local boot metadata only; empty completion history."
+  },
+  "verified_animations": [
+    {
+      "file": "abc-scrubs.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 92,
+      "duration_seconds": 7.66
+    },
+    {
+      "file": "adobe-firefly.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 253,
+      "duration_seconds": 21.08
+    },
+    {
+      "file": "apple.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 129,
+      "duration_seconds": 10.75
+    },
+    {
+      "file": "arbys.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 96,
+      "duration_seconds": 8.0
+    },
+    {
+      "file": "dictionary-fills.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 84,
+      "duration_seconds": 7.0
+    },
+    {
+      "file": "etrade.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 109,
+      "duration_seconds": 9.08
+    },
+    {
+      "file": "fanduel-predicts.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 79,
+      "duration_seconds": 6.58
+    },
+    {
+      "file": "fillables.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 121,
+      "duration_seconds": 10.08
+    },
+    {
+      "file": "google-shopping.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 104,
+      "duration_seconds": 8.66
+    },
+    {
+      "file": "karma-crunch.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 97,
+      "duration_seconds": 8.08
+    },
+    {
+      "file": "letterset.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 103,
+      "duration_seconds": 8.58
+    },
+    {
+      "file": "levis.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 109,
+      "duration_seconds": 9.08
+    },
+    {
+      "file": "mcdonalds.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 80,
+      "duration_seconds": 6.66
+    },
+    {
+      "file": "nba.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 80,
+      "duration_seconds": 6.66
+    },
+    {
+      "file": "paramount.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 120,
+      "duration_seconds": 10.0
+    },
+    {
+      "file": "pocketgrids.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 91,
+      "duration_seconds": 7.58
+    },
+    {
+      "file": "prizepicks.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 115,
+      "duration_seconds": 9.58
+    },
+    {
+      "file": "royal-canin.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 103,
+      "duration_seconds": 8.58
+    },
+    {
+      "file": "sephora.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 103,
+      "duration_seconds": 8.58
+    },
+    {
+      "file": "vital-farms.gif",
+      "width": 393,
+      "height": 850,
+      "frames": 108,
+      "duration_seconds": 9.0
+    }
+  ],
+  "additional_checked": {
+    "Samsung": "hftf-samsung contains only SAMSUNG BASE starter UI; not counted as a finished ad.",
+    "Paddy Power": "Located API documentation, but no runnable creative."
+  },
+  "published_screenshot_sources": [
+    {
+      "file": "sources/syllo-leaderboard.jpg",
+      "page": "https://developers.reddit.com/docs/guides/best-practices/community_games",
+      "image": "https://developers.reddit.com/docs/assets/images/syllo_leaderboard-297a909f65fecff317f64d824289183e.jpg"
+    },
+    {
+      "file": "sources/syllo-gameplay.webp",
+      "page": "https://www.mobygames.com/game/249597/syllo/",
+      "image": "https://cdn.mobygames.com/b55dfc52-b4e7-11f0-96b5-02420a0001fd.webp"
+    }
+  ]
+}

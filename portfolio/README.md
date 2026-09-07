@@ -1,5 +1,7 @@
 # Portfolio
 
+[Mobile screenshots and animated gallery](screenshots/mobile/index.html) · [Capture notes and availability](screenshots/mobile/README.md)
+
 - [ABC Scrubs](https://www.reddit.com/r/hftf_scrubs_dev/comments/1w5hmdg/scrub_in_on_an_operation_with_the_cast_of_scrubs/)
 - [Google Shopping](https://www.reddit.com/user/google/comments/1vz59rb/back_to_school_is_here_explore_shopping_edits/?p=1)
 - [Royal Canin](https://www.reddit.com/r/hftf_royal_canin_dev/comments/1w5cr6q/youre_in_the_judges_seat_select_your_top_dogs_for/)
@@ -15,3 +17,14 @@
 - [FanDuel Predicts](https://www.reddit.com/r/hftf_fan_duel_dev/comments/1u7moiu/think_you_know_whos_going_to_win_put_your_tapping/)
 - [Sephora](https://www.reddit.com/r/hftf_seph_dev/comments/1oaqfir/let_us_help_you_find_the_perfect_gift_for_that/)
 - [Paramount](https://www.reddit.com/r/blx_workarnd_mrp_dev/comments/1oifx0e/the_running_man_in_theaters_november_14/)
+- Apple
+
+
+
+Games:
+- Letterset
+- PocketGrids
+- [Syllo](https://www.reddit.com/r/syllo/)
+- Dictionary Fills
+- Karma Crunch
+- Fillables
